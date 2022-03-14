@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wow-coin/static/css/main.04e29190.css",
+    "main.js": "/wow-coin/static/js/main.94875c5c.js",
+    "index.html": "/wow-coin/index.html",
+    "main.04e29190.css.map": "/wow-coin/static/css/main.04e29190.css.map",
+    "main.94875c5c.js.map": "/wow-coin/static/js/main.94875c5c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04e29190.css",
+    "static/js/main.94875c5c.js"
+  ]
+}
